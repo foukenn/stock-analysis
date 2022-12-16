@@ -1,7 +1,7 @@
 # Stock-Analysis
 
 ### Overview
-  In this analysis, we took a look at the overall stock market dataset to find the stocks that had the best return rate for safe investing. To do so, we will be refactoring old code to make the stock analysis script run even better than before. The expected result is an increased runtime, as well as a simpler and more readable version of the code.
+  In this analysis, we took a look at the overall stock market dataset to find the stocks that had the best return rate for safe investing. To do so, we will be refactoring old code to make the stock analysis script run even better than before. The expected result is an decreased runtime, as well as a simpler and more readable version of the code.
   
 ### Results
 
